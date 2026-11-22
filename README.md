@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Research, software and health." width="100%">
+  <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Retinal photograph from the RetinalInsight demonstration." width="100%">
 </picture>
 
 <h3 align="center">AI Researcher &amp; Engineer · PhD Candidate, University of Southampton</h3>
@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://inamullah-colab.github.io/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
   <a href="https://inamullah-colab.github.io/publications/"><strong>Publications</strong></a> &nbsp; · &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=PRKY9rYAAAAJ"><strong>Google Scholar</strong></a> &nbsp; · &nbsp;
+  <a href="https://inamullah-colab.github.io/cv/"><strong>CV</strong></a> &nbsp; · &nbsp;
+  <a href="https://scholar.google.com/citations?user=PRKY9rYAAAAJ"><strong>Google Scholar</strong></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/inam-ullah-khan-a30532150/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
   <a href="mailto:inamullahk756@gmail.com"><strong>Contact</strong></a>
 </p>
@@ -105,4 +106,4 @@ I’m interested in **academic and industry research opportunities** and collabo
 
 **[Explore my portfolio](https://inamullah-colab.github.io/)** · **[Email me](mailto:inamullahk756@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/inam-ullah-khan-a30532150/)**
 
-<sub>Research software is presented with its project-specific validation status. The visuals above are illustrative; code, methods and references are linked in each project.</sub>
+<sub>The header photograph appears in the <a href="https://inamullah-colab.github.io/news/2026/11/retinalinsight-contextual-dr-grading/">RetinalInsight demonstration</a>; the project-card graphics are schematic. Code, methods, references and research status are linked in each project.</sub>
