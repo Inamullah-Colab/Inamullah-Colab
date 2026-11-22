@@ -13,6 +13,30 @@
   <a href="mailto:inamullahk756@gmail.com"><strong>Email</strong></a>
 </p>
 
+I develop **interpretable machine learning and statistical methods** that connect retinal imaging with molecular and clinical data. I also build research software that makes model evidence easier to inspect, understand and explore.
+
+**Research vision:** current work spans retinal imaging, lipidomics and clinical data; genomics, wearables, microbiome and other omics are broader integration directions.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 / UNDERSTAND</sub><br>
+      <strong>Retina &amp; systemic health</strong><br>
+      Retinal vasculature, lipidomics and multimodal biomedical data.
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / EXPLAIN</sub><br>
+      <strong>Interpretable models</strong><br>
+      Image graphs, explainable AI and causal modelling.
+    </td>
+    <td width="34%" valign="top">
+      <sub>03 / BUILD</sub><br>
+      <strong>Useful research software</strong><br>
+      Analysis workflows, evidence dashboards and interactive tools.
+    </td>
+  </tr>
+</table>
+
 ## Selected research &amp; software
 
 <table>
@@ -50,8 +74,7 @@
   </tr>
 </table>
 
-<details>
-<summary><strong>Methods, tools &amp; background</strong></summary>
+## From research questions to working tools
 
 | Area | What I work with |
 | :--- | :--- |
@@ -60,30 +83,26 @@
 | **Research applications** | FastAPI · Gradio · Hugging Face Transformers · GitHub Pages |
 | **Development workflow** | Git · Linux · Jupyter · Colab · documented analysis workflows |
 
-My path into healthcare AI spans civil engineering, physics, mathematics and computer science. I also share educational material and academic opportunities through [Knowledge &amp; Opportunity](https://inamullah-colab.github.io/knowledge/).
-
-</details>
-
 <details>
-<summary><strong>Media credits, chapters &amp; research context</strong></summary>
+<summary><strong>Beyond the code — education, writing &amp; background</strong></summary>
 
-- **00:00–00:08** — Research profile and background
-- **00:08–00:18** — Retinal vasculature, arteries and veins
-- **00:18–00:28** — Retina, genomics and lipidomics
-- **00:28–00:38** — Systemic health research connections
-- **00:38–00:47** — RetinalInsight research software
-- **00:47–00:56** — Academic and industry collaboration
-
-Retinal photograph and expert vessel annotations: **Fundus-AVSeg**, Deng et al. (2025), [dataset v2](https://doi.org/10.6084/m9.figshare.27938034.v2), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Crops, display colours and illustrative motion adapted. This is a public dataset example, not my own retinal image or a prediction from my software. Movement is not measured blood flow; molecular and organ animations are conceptual illustrations.
-
-Music: **Meditation Impromptu 01** by [Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). One continuous excerpt, edited with volume adjustment and fades.
-
-RetinalInsight is a research prototype. The film does not present clinically validated diagnostic outputs.
-
-Real research imagery with illustrative workspace backgrounds: [sources and interpretation](./assets/SOURCES.md).
+My path into healthcare AI spans civil engineering, physics, mathematics and computer science. I also share educational material and academic opportunities through [Knowledge &amp; Opportunity](https://inamullah-colab.github.io/knowledge/).
 
 </details>
 
 ---
 
+### Let’s connect
+
 I welcome **academic and industry collaborations** in interpretable AI, medical imaging and biomedical data science.
+
+<details>
+<summary><strong>Sources &amp; research context</strong></summary>
+
+Retinal photograph and expert vessel annotations: **Fundus-AVSeg**, Deng et al. (2025), [dataset v2](https://doi.org/10.6084/m9.figshare.27938034.v2), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Crops, display colours and illustrative motion adapted. This is a public dataset example, not my own retinal image or a prediction from my software. Movement is not measured blood flow; molecular and organ animations are conceptual illustrations.
+
+RetinalInsight is a research prototype. The animation does not present clinically validated diagnostic outputs.
+
+Real research imagery with illustrative workspace backgrounds: [sources and interpretation](./assets/SOURCES.md).
+
+</details>
