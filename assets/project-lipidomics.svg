@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+<title id="title">IMAGING + OMICS</title>
+<desc id="desc">Decorative retinal vessel motif linked with molecular chains representing imaging and omics.</desc>
+<rect width="720" height="180" rx="10" fill="#F6F5F0"/>
+<path d="M30 30 H68" stroke="#B66D45" stroke-width="3" stroke-linecap="round"/>
+<text x="30" y="98" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4" fill="#172B30">IMAGING + OMICS</text>
+<path d="M30 130 H318" stroke="#D9E1D9" stroke-width="1"/>
+
+<circle cx="439" cy="91" r="54" fill="#E8EDE2"/>
+<circle cx="439" cy="91" r="58" fill="none" stroke="#D5DFD5"/>
+<g fill="none" stroke-linecap="round"><path d="M416 93 C427 80 427 62 447 42 M426 70 C440 66 455 60 466 47 M416 93 C429 103 430 126 451 143 M430 120 C448 119 466 133 475 137 M416 93 C430 91 448 82 473 85" stroke="#0E756D" stroke-width="2.4"/>
+<path d="M418 94 C426 89 441 97 464 106 M418 94 C417 108 418 125 425 138 M422 84 C413 69 416 56 421 44 M449 98 C461 92 476 98 486 104" stroke="#B66D45" stroke-width="1.9"/></g>
+<ellipse cx="417" cy="93" rx="4" ry="6" fill="#F6F5F0" stroke="#B66D45"/>
+<path d="M500 91 H533" stroke="#8CAFA1" stroke-width="1.5" stroke-dasharray="3 5"/>
+<g fill="none" stroke="#B66D45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M554 56 L575 44 L596 56 L617 44 L638 56 L659 44"/>
+<path d="M554 96 L575 84 L596 96 L617 84 L638 96 L659 84"/>
+<path d="M554 136 L575 124 L596 136 L617 124 L638 136 L659 124"/>
+</g>
+<g fill="#F6F5F0" stroke="#0E756D" stroke-width="2"><circle cx="546" cy="56" r="10"/><circle cx="546" cy="96" r="10"/><circle cx="546" cy="136" r="10"/></g>
+<g fill="#0E756D" opacity="0.45"><circle cx="546" cy="56" r="3"/><circle cx="546" cy="96" r="3"/><circle cx="546" cy="136" r="3"/></g>
+
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Inam Ullah Khan — Making health data meaningful.</title>
+<desc id="desc">An editorial profile banner for research, software and health, with decorative retinal vessel branching and a sparse molecular network.</desc>
+<defs><clipPath id="retinal-field"><circle cx="990" cy="191" r="145"/></clipPath></defs>
+<rect x="1" y="1" width="1198" height="378" rx="22" fill="#0F1D21" stroke="#294146" stroke-width="2"/>
+<rect x="58" y="54" width="48" height="4" rx="2" fill="#D9A17B"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="58" y="95" fill="#76C9B5" font-size="18" font-weight="700" letter-spacing="2.6">RESEARCH / SOFTWARE / HEALTH</text>
+<text x="54" y="181" fill="#E9F0EB" font-size="76" font-weight="700" letter-spacing="-3.2">Inam Ullah Khan</text>
+<text x="58" y="238" fill="#E9F0EB" font-size="34" font-weight="400" letter-spacing="-0.7">Making health data meaningful.</text>
+<text x="58" y="315" fill="#B1C4C3" font-size="17" font-weight="500" letter-spacing="1.4">RETINA · OMICS · INTERPRETABILITY</text>
+</g>
+<path d="M754 56 V324" stroke="#294146" stroke-width="1"/>
+<g fill="none" stroke="#315052" stroke-width="1.3"><path d="M1003.60 35.59 L1004.03 30.61"/><path d="M1043.36 44.41 L1045.07 39.71"/><path d="M1079.48 63.21 L1082.35 59.12"/><path d="M1109.50 90.73 L1113.33 87.51"/><path d="M1131.38 125.07 L1135.92 122.96"/><path d="M1143.63 163.91 L1148.55 163.04"/><path d="M1145.41 204.60 L1150.39 205.03"/><path d="M1136.59 244.36 L1141.29 246.07"/><path d="M1117.79 280.48 L1121.88 283.35"/><path d="M1090.27 310.50 L1093.49 314.33"/><path d="M1055.93 332.38 L1058.04 336.92"/><path d="M1017.09 344.63 L1017.96 349.55"/><path d="M976.40 346.41 L975.97 351.39"/><path d="M936.64 337.59 L934.93 342.29"/><path d="M900.52 318.79 L897.65 322.88"/><path d="M870.50 291.27 L866.67 294.49"/><path d="M848.62 256.93 L844.08 259.04"/><path d="M836.37 218.09 L831.45 218.96"/><path d="M834.59 177.40 L829.61 176.97"/><path d="M843.41 137.64 L838.71 135.93"/><path d="M862.21 101.52 L858.12 98.65"/><path d="M889.73 71.50 L886.51 67.67"/><path d="M924.07 49.62 L921.96 45.08"/><path d="M962.91 37.37 L962.04 32.45"/><path d="M1003.60 35.59 L1004.03 30.61"/></g>
+<circle cx="990" cy="191" r="149" fill="none" stroke="#294146" stroke-width="1"/>
+<circle cx="990" cy="191" r="145" fill="#162D30"/>
+<g clip-path="url(#retinal-field)">
+<circle cx="1031" cy="194" r="30" fill="none" stroke="#315052" stroke-width="0.8" opacity="0.55"/>
+<circle cx="1031" cy="194" r="4" fill="#76C9B5" opacity="0.14"/>
+<g fill="none" stroke="#D9A17B" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"><path d="M1015 61 C1015 51 1019 42 1026 36"/><path d="M1028 92 C1027 75 1028 58 1037 45"/><path d="M1059 119 C1070 131 1081 134 1093 133"/><path d="M1072 282 C1081 270 1093 262 1105 258"/><path d="M1001 317 C996 328 997 338 1000 347"/><path d="M964 326 C960 337 959 344 961 351"/><path d="M868 126 C880 122 889 113 894 103"/><path d="M884 289 C896 297 901 306 901 319"/></g>
+<g fill="none" stroke="#75B7B0" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"><path d="M1016 164 C1032 181 1052 186 1080 183"/><path d="M1057 158 C1071 167 1091 171 1115 166"/><path d="M990 241 C1008 226 1023 221 1039 224"/><path d="M1045 243 C1059 231 1081 226 1105 231"/><path d="M923 310 C930 321 931 333 927 345"/><path d="M916 84 C926 76 927 65 924 54"/><path d="M845 207 C840 220 834 227 825 230"/></g>
+<g fill="none" stroke="#D9A17B" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"><path d="M946 122 C944 100 944 84 953 64"/><path d="M963 98 C984 92 1004 81 1015 61"/><path d="M1001 126 C1009 105 1028 85 1050 74"/><path d="M1041 113 C1058 122 1088 126 1125 118"/><path d="M1075 101 C1084 85 1087 72 1087 63"/><path d="M952 277 C949 297 957 320 969 339"/><path d="M982 308 C1001 306 1018 312 1030 324"/><path d="M1007 283 C1008 303 1012 322 1017 336"/><path d="M1038 299 C1055 283 1076 278 1117 283"/><path d="M1090 311 C1103 304 1117 300 1133 301"/><path d="M869 149 C868 127 873 103 883 85"/><path d="M856 122 C843 115 832 113 823 111"/><path d="M879 252 C884 273 888 290 885 313"/><path d="M862 286 C845 286 829 295 820 305"/></g>
+<g fill="none" stroke="#75B7B0" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"><path d="M956 148 C966 157 992 166 1016 164 C1050 163 1087 148 1122 149"/><path d="M987 137 C987 113 991 93 1002 78"/><path d="M1044 126 C1056 144 1083 143 1110 141"/><path d="M932 103 C916 92 908 77 908 63"/><path d="M924 130 C910 119 894 105 891 88"/><path d="M968 249 C988 238 1016 235 1045 243 C1070 251 1097 263 1122 262"/><path d="M1018 276 C1042 266 1068 268 1084 275"/><path d="M937 292 C923 302 916 315 912 332"/><path d="M925 267 C910 263 898 270 893 281"/><path d="M869 185 C862 201 844 209 823 210"/><path d="M884 190 C879 170 878 153 883 140"/><path d="M852 231 C849 247 841 267 825 278"/></g>
+<g fill="none" stroke="#D9A17B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"><path d="M907 193 C916 173 924 149 946 122 C965 98 976 82 984 55"/><path d="M916 170 C942 150 964 137 1001 126 C1037 115 1073 102 1111 84"/><path d="M907 203 C917 225 928 251 952 277 C976 303 999 318 1023 337"/><path d="M925 242 C955 253 978 264 1007 283 C1038 300 1069 307 1100 313"/><path d="M908 191 C891 176 874 158 861 134 C852 118 847 103 845 84"/><path d="M908 205 C892 222 881 246 871 270 C860 290 851 304 837 319"/></g>
+<g fill="none" stroke="#76C9B5" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"><path d="M910 194 C922 177 935 159 956 148 C986 132 1017 137 1044 126 C1076 112 1091 100 1107 77"/><path d="M918 177 C920 150 924 128 932 103 C940 80 944 59 943 43"/><path d="M911 204 C926 222 939 239 968 249 C999 258 1018 276 1037 298 C1050 311 1063 325 1074 336"/><path d="M919 218 C919 246 926 270 937 292 C946 311 947 327 947 341"/><path d="M908 195 C887 191 869 185 850 174 C836 167 825 153 820 144"/><path d="M909 203 C891 209 870 218 852 231 C839 240 832 254 822 267"/></g>
+<ellipse cx="908" cy="199" rx="11" ry="16" fill="#0F1D21" stroke="#D9A17B" stroke-width="1.4"/>
+<ellipse cx="908" cy="199" rx="5" ry="8" fill="#D9A17B" opacity="0.18"/>
+</g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M780 124 L800 112 L820 124 L820 147 L800 159 L780 147 Z M800 112 V90 M820 124 L840 112 M820 147 L840 160" stroke="#76C9B5" stroke-width="1.8" opacity="0.75"/>
+<path d="M840 112 L860 124 M840 160 L853 171" stroke="#315052" stroke-width="1.6"/>
+<path d="M791 267 L817 252 L842 267 L842 296 L817 311 L791 296 Z M842 267 L863 255 M817 311 V330" stroke="#D9A17B" stroke-width="1.8" opacity="0.75"/>
+</g>
+<g fill="#14262A" stroke-width="1.8">
+<circle cx="800" cy="90" r="4.5" stroke="#76C9B5"/>
+<circle cx="840" cy="112" r="4.5" stroke="#76C9B5"/>
+<circle cx="840" cy="160" r="4.5" stroke="#76C9B5"/>
+<circle cx="817" cy="252" r="4.5" stroke="#D9A17B"/>
+<circle cx="791" cy="296" r="4.5" stroke="#D9A17B"/>
+<circle cx="863" cy="255" r="4.5" stroke="#D9A17B"/>
+<circle cx="817" cy="330" r="4.5" stroke="#D9A17B"/>
+</g>
+<path d="M1137 38 h25 v25 M1137 344 h25 v-25" fill="none" stroke="#D9A17B" stroke-width="1.4"/>
+</svg>

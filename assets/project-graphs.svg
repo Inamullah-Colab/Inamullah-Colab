@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+<title id="title">INTERPRETABLE AI</title>
+<desc id="desc">A decorative graph motif with a highlighted interpretable path and surrounding connections.</desc>
+<rect width="720" height="180" rx="10" fill="#F6F5F0"/>
+<path d="M30 30 H68" stroke="#B66D45" stroke-width="3" stroke-linecap="round"/>
+<text x="30" y="98" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4" fill="#172B30">INTERPRETABLE AI</text>
+<path d="M30 130 H318" stroke="#D9E1D9" stroke-width="1"/>
+
+<circle cx="549" cy="91" r="63" fill="#E8EDE2"/>
+<g fill="none" stroke="#A5BDB2" stroke-width="1.5" stroke-linecap="round"><path d="M402 54 L454 89 L429 141 M454 89 L493 35 L550 56 L590 29 M454 89 L514 126 L563 150 L611 116 L661 139 M454 89 L550 56 L611 116 M550 56 L645 62 L611 116 M514 126 L550 56 M514 126 L611 116 M645 62 L678 97 M611 116 L678 97 M493 35 L402 54"/></g>
+<path d="M454 89 L550 56 L611 116" fill="none" stroke="#B66D45" stroke-width="3.3" stroke-linecap="round"/>
+<g fill="#F6F5F0" stroke="#0E756D" stroke-width="1.6"><circle cx="402" cy="54" r="5"/><circle cx="429" cy="141" r="5"/><circle cx="493" cy="35" r="5"/><circle cx="514" cy="126" r="7"/><circle cx="563" cy="150" r="5"/><circle cx="590" cy="29" r="5"/><circle cx="645" cy="62" r="7"/><circle cx="661" cy="139" r="5"/><circle cx="678" cy="97" r="5"/></g>
+<g fill="#F6F5F0" stroke="#B66D45" stroke-width="2.1"><circle cx="454" cy="89" r="9"/><circle cx="550" cy="56" r="9"/><circle cx="611" cy="116" r="9"/></g>
+<g fill="#B66D45"><circle cx="454" cy="89" r="3"/><circle cx="550" cy="56" r="3"/><circle cx="611" cy="116" r="3"/></g>
+
+</svg>
