@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Retinal photograph from the RetinalInsight demonstration." width="100%">
+  <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Research vision connecting retinal vascular morphology and ocular biomarkers with lipidomics, genomics, microbiome, proteomics, metabolomics, clinical data and wearable signals." width="100%">
 </picture>
 
 <h3 align="center">AI Researcher &amp; Engineer · PhD Candidate, University of Southampton</h3>
@@ -16,6 +16,8 @@
 </p>
 
 I develop **interpretable machine learning and statistical methods** that connect retinal imaging with molecular and clinical data. I also build research software that makes model evidence easier to inspect, understand and explore.
+
+**Research vision:** current work spans retinal imaging, lipidomics and clinical data; genomics, wearables, microbiome and other omics are broader integration directions.
 
 <table>
   <tr>
@@ -42,7 +44,7 @@ I develop **interpretable machine learning and statistical methods** that connec
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Inamullah-Colab/retinalinsight-dr-grading"><img src="./assets/project-retinalinsight.svg" alt="Research software: a schematic retinal evidence workspace" width="100%"></a>
+      <a href="https://github.com/Inamullah-Colab/retinalinsight-dr-grading"><img src="./assets/project-retinalinsight.svg" alt="RetinalInsight: retinal photograph, Grad-CAM saliency view and vessel overlay from the published demonstration, arranged over an illustrative research-workspace background" width="100%"></a>
       <h3>RetinalInsight</h3>
       <p><sub>RESEARCH PROTOTYPE</sub></p>
       <p>A workspace for inspecting diabetic retinopathy predictions alongside vessel morphology, weak lesion cues, Grad-CAM, vascular biomarkers and cited explanations.</p>
@@ -50,7 +52,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><a href="https://inamullah-colab.github.io/retinal-grade-chat/"><strong>Explore workspace</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/retinalinsight-dr-grading">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Inamullah-Colab/fundus-lipidomics-oculomics"><img src="./assets/project-lipidomics.svg" alt="Imaging and omics: a decorative retinal and molecular motif" width="100%"></a>
+      <a href="https://github.com/Inamullah-Colab/fundus-lipidomics-oculomics"><img src="./assets/project-lipidomics.svg" alt="Oculomics and lipidomics: retinal vessel imagery and the study's artery-width and lipid-species association network over an illustrative laboratory background" width="100%"></a>
       <h3>Oculomics × Lipidomics</h3>
       <p><sub>SCIENTIFIC REPORTS · 2026</sub></p>
       <p>A Python analysis workflow examining cross-sectional associations between retinal vascular traits and serum lipidomic profiles in a generally healthy biobank population.</p>
@@ -60,7 +62,7 @@ I develop **interpretable machine learning and statistical methods** that connec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Inamullah-Colab/ReitSEM"><img src="./assets/project-retisem.svg" alt="Causal modelling: an illustrative network of connected biomedical variables" width="100%"></a>
+      <a href="https://github.com/Inamullah-Colab/ReitSEM"><img src="./assets/project-retisem.svg" alt="RetiSEM: a model-derived retinal vessel map and a simplified schematic linking lipid exposures, retinal traits and systemic outcomes, over an illustrative research-workspace background" width="100%"></a>
       <h3>RetiSEM</h3>
       <p><sub>RESEARCH FRAMEWORK · PREPRINT</sub></p>
       <p>Domain-constrained structural equation modelling for studying retinal and systemic pathways in fragmented biomedical data.</p>
@@ -68,7 +70,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><a href="https://arxiv.org/abs/2606.24488"><strong>Read preprint</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/ReitSEM">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Inamullah-Colab/dual-edge-dr-graph-xai"><img src="./assets/project-graphs.svg" alt="Interpretable AI: an illustrative retinal image graph" width="100%"></a>
+      <a href="https://github.com/Inamullah-Colab/dual-edge-dr-graph-xai"><img src="./assets/project-graphs.svg" alt="Interpretable diabetic retinopathy graphs: vessel imagery and the project's image-graph schematic over an illustrative computational-research background" width="100%"></a>
       <h3>Interpretable DR Graphs</h3>
       <p><sub>RESEARCH CODE · PREPRINT</sub></p>
       <p>Diabetic retinopathy research combining retinal lesion evidence, vessel information, vascular biomarkers and image-level graph structure.</p>
@@ -106,4 +108,4 @@ I’m interested in **academic and industry research opportunities** and collabo
 
 **[Explore my portfolio](https://inamullah-colab.github.io/)** · **[Email me](mailto:inamullahk756@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/inam-ullah-khan-a30532150/)**
 
-<sub>The header photograph appears in the <a href="https://inamullah-colab.github.io/news/2026/11/retinalinsight-contextual-dr-grading/">RetinalInsight demonstration</a>; the project-card graphics are schematic. Code, methods, references and research status are linked in each project.</sub>
+<sub>Real research imagery with illustrative workspace backgrounds. <a href="./assets/SOURCES.md">Sources and interpretation</a>.</sub>
