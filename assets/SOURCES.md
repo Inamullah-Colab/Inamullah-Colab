@@ -32,4 +32,16 @@ The photographic workspace and laboratory surroundings are **AI-generated decora
 
 RetinalInsight imagery reused across the covers provides visual context. It does not identify participants in the lipidomics or SEM studies. The figure excerpts retain their project-specific meaning; the complete papers and repositories remain the sources for interpreting results.
 
+
+## Animated research portfolio
+
+[`research-portfolio-animated.gif`](./research-portfolio-animated.gif) is a silent, looping adaptation of the [56-second research portfolio film](https://github.com/user-attachments/assets/70205de4-335b-4739-84c9-33674c8e3549). It preserves the entire original sequence and aspect ratio at 720 × 405 pixels, 10 frames per second. No imagery or text was added, removed or cropped. The animation is a presentation, not measured physiology.
+
+Retinal photograph and expert artery/vein annotations: **Fundus-AVSeg**, Deng et al. (2025), [dataset v2](https://doi.org/10.6084/m9.figshare.27938034.v2), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Display colours, crops and illustrative motion are adapted. This is a public dataset example, not the author's own retinal image or a RetinalInsight prediction. Molecular and organ animations are conceptual illustrations. The portrait is the author's real public photograph.
+
+The full MP4 includes **Meditation Impromptu 01** by [Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), with volume adjustment and fades. The GIF has no audio. RetinalInsight is presented as a research prototype.
+
+- GIF SHA-256: `b06dc03c0d7ded6552670f17d3baa6fed32e405197d63e2d76dcc4d67b0243a8`
+- Original MP4 SHA-256: `c52aa59ab1dfa6296e1fe07bf0d2637776f8be03205d28e1dadcecf1d1481302`
+
 Updated 22 November 2026.

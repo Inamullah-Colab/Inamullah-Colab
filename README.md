@@ -1,3 +1,20 @@
+<!-- research-portfolio-animation:start -->
+<table>
+  <tr>
+    <td width="52%" valign="middle">
+      <a href="#watch-my-research-portfolio"><img src="./assets/research-portfolio-animated.gif" alt="Silent animated research portfolio: retinal imagery, moving vessel illustrations, molecular data and systemic health. Watch the full video with sound below." width="440"></a>
+    </td>
+    <td width="48%" valign="middle">
+      <sub>RESEARCH PORTFOLIO · 56 SECONDS</sub>
+      <h3>Retinal science.<br>Connected health.</h3>
+      <p>From retinal vasculature to molecular data and healthcare AI.</p>
+      <p><a href="#watch-my-research-portfolio"><strong>▶ Watch with sound</strong></a></p>
+      <p><sub>Full video, chapters and media credits below.</sub></p>
+    </td>
+  </tr>
+</table>
+<!-- research-portfolio-animation:end -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
