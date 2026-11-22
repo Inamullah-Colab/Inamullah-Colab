@@ -13,26 +13,6 @@
   <a href="mailto:inamullahk756@gmail.com"><strong>Email</strong></a>
 </p>
 
-<details>
-<summary><strong>▶ Watch with sound · 56 seconds</strong></summary>
-
-https://github.com/user-attachments/assets/70205de4-335b-4739-84c9-33674c8e3549
-
-</details>
-
-<details>
-<summary><strong>Explore the research map — retina, biomarkers &amp; multi-omics</strong></summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Research vision connecting retinal vascular morphology and ocular biomarkers with lipidomics, genomics, microbiome, proteomics, metabolomics, clinical data and wearable signals." width="100%">
-</picture>
-
-Current work spans retinal imaging, lipidomics and clinical data; genomics, wearables, microbiome and other omics are broader integration directions.
-
-</details>
-
 ## Selected research &amp; software
 
 <table>
