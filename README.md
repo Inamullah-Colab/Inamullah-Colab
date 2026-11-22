@@ -7,11 +7,11 @@
 <h3 align="center">AI Researcher &amp; Engineer · PhD Candidate, University of Southampton</h3>
 
 <p align="center">
-  <a href="https://inamullah-colab.github.io/"><strong>Portfolio ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://inamullah-colab.github.io/publications/"><strong>Publications ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=PRKY9rYAAAAJ"><strong>Google Scholar ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/inam-ullah-khan-a30532150/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
-  <a href="mailto:inamullahk756@gmail.com"><strong>Contact ↗</strong></a>
+  <a href="https://inamullah-colab.github.io/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
+  <a href="https://inamullah-colab.github.io/publications/"><strong>Publications</strong></a> &nbsp; · &nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=PRKY9rYAAAAJ"><strong>Google Scholar</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/inam-ullah-khan-a30532150/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:inamullahk756@gmail.com"><strong>Contact</strong></a>
 </p>
 
 I develop **interpretable machine learning and statistical methods** that connect retinal imaging with molecular and clinical data. I also build research software that makes model evidence easier to inspect, understand and explore.
@@ -46,7 +46,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><sub>RESEARCH PROTOTYPE</sub></p>
       <p>A workspace for inspecting diabetic retinopathy predictions alongside vessel morphology, weak lesion cues, Grad-CAM, vascular biomarkers and cited explanations.</p>
       <p><strong>Focus:</strong> evidence inspection · model integration · research interfaces</p>
-      <p><a href="https://inamullah-colab.github.io/retinal-grade-chat/"><strong>Explore workspace ↗</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/retinalinsight-dr-grading">Code ↗</a></p>
+      <p><a href="https://inamullah-colab.github.io/retinal-grade-chat/"><strong>Explore workspace</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/retinalinsight-dr-grading">Code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Inamullah-Colab/fundus-lipidomics-oculomics"><img src="./assets/project-lipidomics.svg" alt="Imaging and omics: a decorative retinal and molecular motif" width="100%"></a>
@@ -54,7 +54,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><sub>SCIENTIFIC REPORTS · 2026</sub></p>
       <p>A Python analysis workflow examining cross-sectional associations between retinal vascular traits and serum lipidomic profiles in a generally healthy biobank population.</p>
       <p><strong>Focus:</strong> retinal phenotyping · molecular data · statistical analysis</p>
-      <p><a href="https://www.nature.com/articles/s41598-026-74898-2"><strong>Read published paper ↗</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/fundus-lipidomics-oculomics">Code ↗</a></p>
+      <p><a href="https://www.nature.com/articles/s41598-026-74898-2"><strong>Read published paper</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/fundus-lipidomics-oculomics">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><sub>RESEARCH FRAMEWORK · PREPRINT</sub></p>
       <p>Domain-constrained structural equation modelling for studying retinal and systemic pathways in fragmented biomedical data.</p>
       <p><strong>Focus:</strong> multimodal integration · mediation · structured hypotheses</p>
-      <p><a href="https://arxiv.org/abs/2606.24488"><strong>Read preprint ↗</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/ReitSEM">Code ↗</a></p>
+      <p><a href="https://arxiv.org/abs/2606.24488"><strong>Read preprint</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/ReitSEM">Code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Inamullah-Colab/dual-edge-dr-graph-xai"><img src="./assets/project-graphs.svg" alt="Interpretable AI: an illustrative retinal image graph" width="100%"></a>
@@ -72,7 +72,7 @@ I develop **interpretable machine learning and statistical methods** that connec
       <p><sub>RESEARCH CODE · PREPRINT</sub></p>
       <p>Diabetic retinopathy research combining retinal lesion evidence, vessel information, vascular biomarkers and image-level graph structure.</p>
       <p><strong>Focus:</strong> lesion–vessel context · graph learning · interpretability</p>
-      <p><a href="https://doi.org/10.48550/arXiv.2606.24168"><strong>Read preprint ↗</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/dual-edge-dr-graph-xai">Code ↗</a></p>
+      <p><a href="https://doi.org/10.48550/arXiv.2606.24168"><strong>Read preprint</strong></a> &nbsp; <a href="https://github.com/Inamullah-Colab/dual-edge-dr-graph-xai">Code</a></p>
     </td>
   </tr>
 </table>
