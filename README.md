@@ -39,6 +39,34 @@ I develop **interpretable machine learning and statistical methods** that connec
   </tr>
 </table>
 
+## Watch my research portfolio
+
+**Retinal science & connected health · 56 seconds · instrumental soundtrack**
+
+A short introduction to my research interests in retinal vasculature, oculomics, genomics, lipidomics and healthcare AI, including the RetinalInsight research prototype.
+
+https://github.com/user-attachments/assets/70205de4-335b-4739-84c9-33674c8e3549
+
+[Open the video](https://github.com/user-attachments/assets/70205de4-335b-4739-84c9-33674c8e3549) · [Explore my full portfolio](https://inamullah-colab.github.io/)
+
+<details>
+<summary><strong>Video chapters, media credits &amp; research context</strong></summary>
+
+- **00:00–00:08** — Research profile and background
+- **00:08–00:18** — Retinal vasculature, arteries and veins
+- **00:18–00:28** — Retina, genomics and lipidomics
+- **00:28–00:38** — Systemic health research connections
+- **00:38–00:47** — RetinalInsight research software
+- **00:47–00:56** — Academic and industry collaboration
+
+Retinal photograph and expert vessel annotations: **Fundus-AVSeg**, Deng et al. (2025), [dataset v2](https://doi.org/10.6084/m9.figshare.27938034.v2), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Crops, display colours and illustrative motion adapted. This is a public dataset example, not my own retinal image or a prediction from my software. Movement is not measured blood flow; molecular and organ animations are conceptual illustrations.
+
+Music: **Meditation Impromptu 01** by [Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). One continuous excerpt, edited with volume adjustment and fades.
+
+RetinalInsight is a research prototype. The film does not present clinically validated diagnostic outputs.
+
+</details>
+
 ## Selected research &amp; software
 
 <table>
