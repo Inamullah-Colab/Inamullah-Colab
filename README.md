@@ -4,41 +4,6 @@
   <img src="./assets/profile-header-light.svg" alt="Inam Ullah Khan — Making health data meaningful. Research vision connecting retinal vascular morphology and ocular biomarkers with lipidomics, genomics, microbiome, proteomics, metabolomics, clinical data and wearable signals." width="100%">
 </picture>
 
-<h3 align="center">AI Researcher &amp; Engineer · PhD Candidate, University of Southampton</h3>
-
-<p align="center">
-  <a href="https://inamullah-colab.github.io/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
-  <a href="https://inamullah-colab.github.io/publications/"><strong>Publications</strong></a> &nbsp; · &nbsp;
-  <a href="https://inamullah-colab.github.io/cv/"><strong>CV</strong></a> &nbsp; · &nbsp;
-  <a href="https://scholar.google.com/citations?user=PRKY9rYAAAAJ"><strong>Google Scholar</strong></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/inam-ullah-khan-a30532150/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
-  <a href="mailto:inamullahk756@gmail.com"><strong>Contact</strong></a>
-</p>
-
-I develop **interpretable machine learning and statistical methods** that connect retinal imaging with molecular and clinical data. I also build research software that makes model evidence easier to inspect, understand and explore.
-
-**Research vision:** current work spans retinal imaging, lipidomics and clinical data; genomics, wearables, microbiome and other omics are broader integration directions.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub>01 / UNDERSTAND</sub><br>
-      <strong>Retina &amp; systemic health</strong><br>
-      Retinal vasculature, lipidomics and multimodal biomedical data.
-    </td>
-    <td width="33%" valign="top">
-      <sub>02 / EXPLAIN</sub><br>
-      <strong>Interpretable models</strong><br>
-      Image graphs, explainable AI and causal modelling.
-    </td>
-    <td width="34%" valign="top">
-      <sub>03 / BUILD</sub><br>
-      <strong>Useful research software</strong><br>
-      Analysis workflows, evidence dashboards and interactive tools.
-    </td>
-  </tr>
-</table>
-
 ## Selected research &amp; software
 
 <table>
