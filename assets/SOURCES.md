@@ -2,6 +2,10 @@
 
 These profile visuals combine existing research imagery, native SVG labels and illustrative workspace backgrounds. The linked projects provide the methods, full figures and research status.
 
+## Public data catalogue illustration
+
+[`research-data-map.svg`](./research-data-map.svg) is an original vector illustration created for the profile's public GWAS and oculomics resource index. It shows modality groups and possible cross-study analyses. Its dotted links do not represent measured causal effects, confirmed replication, or one shared participant cohort. No study results or participant images appear in this artwork.
+
 ## Main banner
 
 The light and dark banners show a **research vision**: connecting retinal vascular morphology and quantitative ocular biomarkers with multimodal health data.
