@@ -45,6 +45,18 @@
   </tr>
 </table>
 
+## Public data for collaborative GWAS &amp; oculomics
+
+A source-linked catalogue of public retinal, lipidomics, metabolomics, protein and cardiovascular GWAS—with clear notes on what is downloaded, what is only a selected subset, and where participant-level access remains controlled.
+
+<p align="center">
+  <a href="./DATA_RESOURCES.md"><img src="./assets/research-data-map.svg" alt="Conceptual research map connecting public retinal, lipid, metabolite, protein and cardiovascular summary data; lines show research themes, not causal effects." width="100%"></a>
+</p>
+
+<p align="center"><strong><a href="./DATA_RESOURCES.md">Explore the dataset catalogue →</a></strong> &nbsp; · &nbsp; <a href="https://github.com/Inamullah-Colab/Inamullah-Colab/issues/new">Suggest a dataset or correction</a></p>
+
+<sub>Links point to source repositories. This profile does not host participant-level records, restricted data or large GWAS files.</sub>
+
 ## From research questions to working tools
 
 | Area | What I work with |
